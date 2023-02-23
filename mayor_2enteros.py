@@ -18,5 +18,5 @@ else:
 
     else:
         mayor = y
-    # output
+        # output
     print ("El mayor entre " + str(x) + " y " + str(y) + " es " + str(mayor))
